@@ -1,0 +1,23 @@
+body {
+  background-color: white;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+#header-bar .left-nav {
+  text-align: right;
+}
+
+nav .right-nav {
+  text-align: right;
+}
+
+#main-body .big-font {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  padding: 50px;
+}
